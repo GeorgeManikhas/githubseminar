@@ -1,3 +1,5 @@
 # Удаленный репозиторий 
 
-## Local changes VSCode
+## 1. Local changes VSCode
+
+## 2. Remote changes GitHub
